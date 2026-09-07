@@ -1,0 +1,48 @@
+# 🌐 Business Website
+
+> A clean, responsive, and interactive business website built with **HTML, CSS, and JavaScript**.
+
+## ✨ Features
+
+* 📱 Responsive design
+* 🎨 Clean and modern UI
+* ⚡ Interactive JavaScript elements
+* 🧭 Easy navigation
+* 💼 Business-focused layout
+* 🌐 Works across modern browsers
+
+## 🛠️ Built With
+
+* **HTML5** — Website structure
+* **CSS3** — Styling & responsive design
+* **JavaScript** — Interactivity & dynamic behavior
+
+## 📂 Project Structure
+
+```text
+Business-Website/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+## 🚀 Getting Started
+
+1. Clone or download the repository.
+2. Open the project folder.
+3. Open `index.html` in your browser.
+
+That's it — no additional setup required. 🚀
+
+## 🎯 Purpose
+
+This project demonstrates how **HTML, CSS, and JavaScript** can be combined to create a professional business website with a responsive interface and interactive user experience.
+
+## 👨‍💻 Author
+
+**Ayesha**
+BSCS Student | Web Development & Data Science Learner
+
+*Built with code, creativity, and curiosity. 🚀*
